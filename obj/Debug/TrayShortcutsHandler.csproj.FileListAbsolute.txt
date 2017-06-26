@@ -1,0 +1,10 @@
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\bin\Debug\TrayShortcutsHandler.exe.config
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\bin\Debug\TrayShortcutsHandler.exe
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\bin\Debug\TrayShortcutsHandler.pdb
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\TrayShortcutsHandler.Properties.Resources.resources
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\TrayShortcutsHandler.csproj.GenerateResource.Cache
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\TrayShortcutsHandler.exe
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\TrayShortcutsHandler.pdb
+C:\Users\Tomasz\Documents\Visual Studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\TrayShortcutsHandler.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz\Documents\Visual Studio 2017\Projects\WorkflowManager\WorkflowManager\bin\Debug\assets\testowy.txt
+C:\Users\Tomasz\Documents\Visual Studio 2017\Projects\WorkflowManager\WorkflowManager\bin\Debug\Tulpep.NotificationWindow.dll

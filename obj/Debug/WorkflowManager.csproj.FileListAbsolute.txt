@@ -1,0 +1,8 @@
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\WorkflowManager.csprojResolveAssemblyReference.cache
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\WorkflowManager.Properties.Resources.resources
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\WorkflowManager.csproj.GenerateResource.Cache
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\bin\Debug\WorkflowManager.exe.config
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\bin\Debug\WorkflowManager.exe
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\bin\Debug\WorkflowManager.pdb
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\WorkflowManager.exe
+c:\users\tomasz\documents\visual studio 2017\Projects\WorkflowManager\WorkflowManager\obj\Debug\WorkflowManager.pdb

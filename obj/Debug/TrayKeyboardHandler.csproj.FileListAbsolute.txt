@@ -1,0 +1,9 @@
+E:\Git\TrayKeyboardHandler\bin\Debug\assets\testowy.txt
+E:\Git\TrayKeyboardHandler\bin\Debug\TrayKeyboardHandler.exe.config
+E:\Git\TrayKeyboardHandler\bin\Debug\TrayKeyboardHandler.exe
+E:\Git\TrayKeyboardHandler\bin\Debug\TrayKeyboardHandler.pdb
+E:\Git\TrayKeyboardHandler\obj\Debug\TrayKeyboardHandler.csprojResolveAssemblyReference.cache
+E:\Git\TrayKeyboardHandler\obj\Debug\TrayKeyboardHandler.Properties.Resources.resources
+E:\Git\TrayKeyboardHandler\obj\Debug\TrayKeyboardHandler.csproj.GenerateResource.Cache
+E:\Git\TrayKeyboardHandler\obj\Debug\TrayKeyboardHandler.exe
+E:\Git\TrayKeyboardHandler\obj\Debug\TrayKeyboardHandler.pdb
